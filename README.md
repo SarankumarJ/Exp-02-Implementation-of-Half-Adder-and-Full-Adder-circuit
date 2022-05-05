@@ -68,7 +68,7 @@ endmodule
 ## RTL
 ![git](./Ex-02%20RTL-Half.png)
 ## TIMING DIAGRAM
-![git](./Ex-02%20TD-Half.png)
+![git](./half%20td.png)
 ## TRUTH TABLE 
 ![git](./Ex-02%20Truth%20Table-Half.png)
 
@@ -78,7 +78,7 @@ endmodule
 ## RTL
 ![git](./Ex-02%20RTL-Full.png)
 ## TIMING DIAGRAM
-![git](./Ex-02%20TD-Full.png)
+![git](./full%20td.png)
 ## TRUTH TABLE
 ![git](./Ex-02%20Truth%20Table-Full.png)
 
